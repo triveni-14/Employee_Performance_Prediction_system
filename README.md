@@ -116,10 +116,6 @@ This project demonstrates how machine learning and data analytics can be applied
 
 ---
 
-## 👩‍💻 Author
+## 🔗Let's Connect 
 
-**Barnana Triveni**
-
-B.Tech – Information Technology
-
-GitHub: https://github.com/triveni-14/Employee_Performance_Prediction_system
+💻 GitHub: https://github.com/triveni-14/Employee_Performance_Prediction_system
